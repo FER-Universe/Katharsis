@@ -10,7 +10,9 @@ Installation
 ### Overall
 ```bash
 pip install torch torchvision torchaudio
+pip install tensorflow
 conda install -c menpo opencv
+pip install --user grad-cam==1.4.6
 ```
 
 ### (Dense) Facial Landmarks
@@ -27,3 +29,11 @@ pip install timm==0.6.7
 ```bash
 git clone https://github.com/HSE-asavchenko/face-emotion-recognition
 ```
+
+
+References
+---
+- [mediapipe](https://github.com/googlesamples/mediapipe)
+- [facetorch](https://github.com/tomas-gajarsky/facetorch)
+- [face-emotion-recognition](https://github.com/HSE-asavchenko/face-emotion-recognition)
+- [pytorch-grad-cam](https://github.com/jacobgil/pytorch-grad-cam)
