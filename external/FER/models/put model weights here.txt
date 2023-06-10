@@ -1,0 +1,3 @@
+put model weights here
+
+- [link](https://github.com/HSE-asavchenko/face-emotion-recognition)
