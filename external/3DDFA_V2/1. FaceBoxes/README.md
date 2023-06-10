@@ -1,4 +1,4 @@
-# Install Guide for Winds10/11
+# Install Guide for Wins10/11
 
 
 1. copy below
