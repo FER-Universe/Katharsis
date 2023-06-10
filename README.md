@@ -31,6 +31,13 @@ pip install timm==0.6.7
 git clone https://github.com/HSE-asavchenko/face-emotion-recognition
 ```
 
+### Others
+
+anaconda gcc
+```bash
+conda install -c conda-forge m2w64-gcc
+```
+
 
 References
 ---
@@ -38,3 +45,4 @@ References
 - [facetorch](https://github.com/tomas-gajarsky/facetorch)
 - [face-emotion-recognition](https://github.com/HSE-asavchenko/face-emotion-recognition)
 - [pytorch-grad-cam](https://github.com/jacobgil/pytorch-grad-cam)
+- [Towards Fast, Accurate and Stable 3D Dense Face Alignment](https://github.com/cleardusk/3DDFA_V2)
