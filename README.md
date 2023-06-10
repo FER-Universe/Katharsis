@@ -31,7 +31,8 @@ pip install timm==0.6.7
 git clone https://github.com/HSE-asavchenko/face-emotion-recognition
 ```
 
-### Others
+Others
+---
 
 anaconda gcc
 ```bash
